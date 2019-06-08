@@ -16,6 +16,10 @@ function calculateFutureAge(birthYear, futureYear) {
 // calling the calculateFutureAge function
 calculateFutureAge(birthYear, futureYear);
 
+
+
+// Solution Number 2;
+
 let age = 26;
 let maxAge = 120;
 let padDay = 4;
