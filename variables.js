@@ -22,7 +22,7 @@ calculateFutureAge(birthYear, futureYear);
 
 let age = 26;
 let maxAge = 120;
-let padDay = 4;
+let pedDay = 4;
 
 function calculateTotalNeeded(peyDay, maxAge, age) {
     let totalNeeded = (peyDay * 365) * (maxAge - age);
